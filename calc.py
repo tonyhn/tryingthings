@@ -9,8 +9,6 @@ class Calculator:
     def multiplyNum(self):
         return float(self.a*self.b)
     
-    def subNum(self):
-        return self.a-self.b
 
 
 a = float(input("Enter the first number... "))
